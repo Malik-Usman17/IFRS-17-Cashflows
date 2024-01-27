@@ -1,0 +1,117 @@
+{
+    "products": {
+    "301": {
+      "gender": "",
+      "admin_inflation": 0.0,
+      "bid_offer": 5.0,
+      "admin_charges_annual": 0,
+      "imc_annual": 1.6,
+      "growth_rate": 0.64,
+      "surrendered_charges": 350,
+      "benefit_type": 2,
+      "fixed_expenses": {
+          "first_year": 0,
+          "second_year": 0,
+          "inflation_rate": 0.0,
+          "renewal_expense_premium": 0.0,
+          "aquisition_expense": 0,
+          "admin_expense":0,
+          "expected_actual_mortality_charge": 100.0,
+          "mortality_charge_loading": 125.0
+      },
+      "assumptions": {
+          "allocation": "data/assumptions/301/allocation.csv",
+          "lapse_rate": "data/assumptions/301/lapse_rate.csv",
+          "commission": "data/assumptions/301/comission.csv",
+          "persistency": "data/assumptions/301/persistency.csv",
+          "surrender": "data/assumptions/301/surrender.csv"	
+      }
+  },
+  "302": {
+      "gender": "",
+      "admin_inflation": 0.0,
+      "bid_offer": 5.0,
+      "admin_charges_annual": 0,
+      "imc_annual": 1.6,
+      "growth_rate": 0.64,
+      "surrendered_charges": 350,
+      "benefit_type": 2,
+      "fixed_expenses": {
+          "first_year": 0,
+          "second_year": 0,
+          "inflation_rate": 0.0,
+          "renewal_expense_premium": 0.0,
+          "aquisition_expense": 0,
+          "admin_expense":0,
+          "expected_actual_mortality_charge": 100.0,
+          "mortality_charge_loading": 125.0
+      },
+      "assumptions": {
+            "allocation": "data/assumptions/302/allocation.csv",
+            "lapse_rate": "data/assumptions/302/lapse_rate.csv",
+            "commission": "data/assumptions/302/comission.csv",
+            "persistency": "data/assumptions/302/persistency.csv",
+            "surrender": "data/assumptions/302/surrender.csv"	
+
+      }
+  },
+  "303": {
+    "gender": "",
+    "admin_inflation": 0.0,
+    "bid_offer": 5.0,
+    "admin_charges_annual": 0,
+    "imc_annual": 1.6,
+    "growth_rate": 0.64,
+    "surrendered_charges": 350,
+    "benefit_type": 2,
+    "fixed_expenses": {
+        "first_year": 0,
+        "second_year": 0,
+        "inflation_rate": 0.0,
+        "renewal_expense_premium": 0.0,
+        "aquisition_expense": 0,
+        "admin_expense":0,
+        "expected_actual_mortality_charge": 100.0,
+        "mortality_charge_loading": 125.0
+    },
+    "assumptions": {
+        "allocation": "data/assumptions/303/allocation.csv",
+        "lapse_rate": "data/assumptions/303/lapse_rate.csv",
+        "commission": "data/assumptions/303/comission.csv",
+        "persistency": "data/assumptions/303/persistency.csv",
+        "surrender": "data/assumptions/303/surrender.csv"		
+
+    }
+},
+
+"304": {
+    "gender": "",
+    "admin_inflation": 0.0,
+    "bid_offer": 5.0,
+    "admin_charges_annual": 0,
+    "imc_annual": 1.6,
+    "growth_rate": 0.64,
+    "surrendered_charges": 350,
+    "benefit_type": 2,
+    "fixed_expenses": {
+        "first_year": 0,
+        "second_year": 0,
+        "inflation_rate": 0.0,
+        "renewal_expense_premium": 0.0,
+        "aquisition_expense": 0,
+        "admin_expense":0,
+        "expected_actual_mortality_charge": 100.0,
+        "mortality_charge_loading": 125.0
+    },
+    "assumptions": {
+        "allocation": "data/assumptions/304/allocation.csv",
+        "lapse_rate": "data/assumptions/304/lapse_rate.csv",
+        "commission": "data/assumptions/304/comission.csv",
+        "persistency": "data/assumptions/304/persistency.csv",
+        "surrender": "data/assumptions/304/surrender.csv"	
+
+    }
+}
+}
+
+}
